@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/network cubes.unity
+    guid: c5fde2e0f4d094fcbb19544c3ef71b36
+  - enabled: 0
+    path: Assets/Scene/ffmpegAndroidTest.unity
+    guid: b7a3e8252d6cd9948b5aba5556d7034f
+  - enabled: 0
+    path: Assets/SimpleTouchController/Scenes/Example2.unity
+    guid: c3cd371040bb39f41bcbc6116372b529
+  - enabled: 0
+    path: Assets/Scene/main.unity
+    guid: c13ba65cc94754a509782cf4c7bb1765
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 094713aff31fc8b48ba47407d814e5bc,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9168ed385703b074eb68df516ebd55d5,
+      type: 2}
